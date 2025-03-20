@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Mary Daniel
+Sudent Email:  mcdaniel@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+Completing this assignment made me understand pandas and Streamlit better. I feel more comfortable with extracting column names, filter data by type, and retrieving unique values. I struggled with mapping file extensions, but after looking up select_dtypes I understood the concept a little more. I also realized the importance of usimg Streamlit to make application file uploading more user friendly. For the next assignment, I think I will be more comfortable working with pandas DataFrames but will need to practice optimizing performance in Streamlit applications.
